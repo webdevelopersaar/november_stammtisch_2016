@@ -30,7 +30,7 @@ Ralf, Chinthu, Kevin, Christian, Mirko
 * [Ansistrano](https://github.com/ansistrano)
 
 * [CoderDojo](http://coderdojo-saar.de/)
-* [Caliope Mini](http://calliope.cc/ueber-mini)
+* [Calliope Mini](http://calliope.cc/ueber-mini) (Artikel bei [Make](https://www.heise.de/make/meldung/Calliope-mini-Mikrocontroller-fuer-die-Grundschule-3361271.html))
 * [Microbits](https://www.microbit.co.uk/)
 * [WebDevStammtisch Saar](http://www.webdevstammtisch.de/)
 * [Bunte Kohle](https://buntekohle.eu/)
